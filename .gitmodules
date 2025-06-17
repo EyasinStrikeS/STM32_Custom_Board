@@ -1,0 +1,3 @@
+[submodule "Hardware/Libraries/AltiumDesigner-Libraries"]
+	path = Hardware/Libraries/AltiumDesigner-Libraries
+	url = https://github.com/pms67/AltiumDesigner-Libraries.git
